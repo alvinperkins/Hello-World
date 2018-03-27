@@ -26,7 +26,7 @@ leetcode 算法题
 # Hadoop Spark　框架和算法 数据分析
 https://github.com/alvinperkins/ClusterComputing   
 
-常用　SQL　语句   
+常用　SQL(Hive)　语句   
     
 Mapreduce 编程
 常见的问题与解决方案        
