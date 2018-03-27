@@ -17,8 +17,15 @@ deep learning 示例
 # 语言和算法
 https://github.com/alvinperkins/GolangPythonJavaScala
 
+Java 面向对象编程
+numpy & pandas
+leetcode 算法题
+
 # Hadoop Spark　框架和算法
 https://github.com/alvinperkins/ClusterComputing   
 
-MapReduce 模式　　　   
+常用　SQL　语句
+MapReduce 模式　　　   
 常见的问题与解决方案
+
+Spark SQL
