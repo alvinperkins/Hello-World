@@ -31,4 +31,4 @@ https://github.com/alvinperkins/ClusterComputing
 Mapreduce 编程
 常见的问题与解决方案        
 
-Spaek SQL
+Spark SQL
