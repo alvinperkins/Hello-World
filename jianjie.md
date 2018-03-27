@@ -17,8 +17,10 @@ deep learning 示例
 # 语言和算法
 https://github.com/alvinperkins/GolangPythonJavaScala
 
-Java 面向对象编程
-numpy & pandas
+Java 面向对象编程   
+   
+numpy & pandas   
+   
 leetcode 算法题
 
 # Hadoop Spark　框架和算法
