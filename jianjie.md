@@ -47,7 +47,7 @@ Spark SQL
       笛卡尔积　Job链　Job Merging 自定义输入输出
              
  Spark 用户访问session 分析   
-      (https://github.com/alvinperkins/ClusterComputing/tree/master/spark-project)
+      (https://github.com/alvinperkins/ClusterComputing/tree/master/spark-project)    
       1、可以根据使用者指定的某些条件，筛选出指定的一些用户（有特定年龄、职业、城市）；      
       2、对这些用户在指定日期范围内发起的session，进行聚合统计；           
       ３、获取点击量、下单量和支付量都排名10的商品种类      
