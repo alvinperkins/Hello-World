@@ -8,12 +8,12 @@ LR, 随机森林　朴素贝叶斯
 特征工程   
 人工神经网络   
 
-Kaggle项目　：　
+Kaggle项目　：　    
             电影点评情感分析          
             圣弗朗西斯科犯罪分类       
             自行车租赁预测比赛　       
-            泰坦尼克号获救预测
-(https://github.com/alvinperkins/MachineLearning/tree/master/Machine%20Learning%20A)
+            泰坦尼克号获救预测   
+  (https://github.com/alvinperkins/MachineLearning/tree/master/Machine%20Learning%20A)
 
   
 RNN 语言模型   
